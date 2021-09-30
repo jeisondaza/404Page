@@ -31,10 +31,10 @@ body{
     align-items: center;
     justify-content: center;
     text-decoration: none;
+    padding-inline: 1.5rem;
     margin-block-start: 2rem;
     height: 3rem;
-    width: 50%;
-    border: none;
+    width: 60%;
     background-color: rgb(8, 8, 56);
     color: white;
 }
@@ -72,6 +72,7 @@ body{
         font-size: 1.6rem;
     }
     .main__btn{
+        width: 35%;
         cursor: pointer;
         margin-block-start: 0;
         font-size: 1.3rem;
